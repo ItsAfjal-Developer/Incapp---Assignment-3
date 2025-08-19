@@ -1,6 +1,6 @@
-# Incapp - Assignment 3
+# Incapp - Assignment 03
 
-This is the **3.1 Assignment Project** from **Incapp Institute** ,
+This is the **03 Assignment Project** from **Incapp Institute** ,
 Created as part of the Frontend Development Training. 
 The Assignment Demonstrates Practical use of **HTML** and **CSS** to Create a Visually 
 Appealing and Responsive Layout.
@@ -22,8 +22,8 @@ Appealing and Responsive Layout.
 
 ## Screenshots
 
-Below is a Preview of **Assignment 3.1** , Showcasing the Layout and Styling implemented Using pure HTML and CSS. 
+Below is a Preview of **Assignment 03** , Showcasing the Layout and Styling implemented Using pure HTML and CSS. 
 The Design focuses on Clean Structure , Responsiveness and Modern Styling.
 
 
-<img src="./images/Assignment-3.1.png" alt="Assignment 3.1 Preview" width="100%" />
+<img src="./images/Assignment-3.1.png" alt="Assignment 03 Preview" width="100%" />
