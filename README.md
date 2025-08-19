@@ -1,4 +1,4 @@
-# Incapp - Assignment 03
+# Incapp - Assignment 03<sup>rd</sup>
 
 This is the **03<sup>rd</sup> Assignment Project** from **Incapp Institute** ,
 Created as part of the Frontend Development Training. 
@@ -22,7 +22,7 @@ Appealing and Responsive Layout.
 
 ## Screenshots
 
-Below is a Preview of **Assignment 03** , Showcasing the Layout and Styling implemented Using pure HTML and CSS. 
+Below is a Preview of **Assignment 03<sup>rd</sup>** , Showcasing the Layout and Styling implemented Using pure HTML and CSS. 
 The Design focuses on Clean Structure , Responsiveness and Modern Styling.
 
 
